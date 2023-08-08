@@ -53,7 +53,7 @@ def get_data( file_name, sheet_name ,column_name):
 #file_name = "atomic-region-v131.xlsx"
 file_name_r9nano = "problemsize.xlsx"
 #file_name_mi100 = "mi100problemsize.xlsx"
-file_name_mi100 = "mi100problemsize_v7.xlsx"
+file_name_mi100 = "mi100.xlsx"
 file_name=file_name_mi100
 #atomic_regions = ['looppoint','natural']
 #atomic_regions = ['looppoint','mtngpp_full']

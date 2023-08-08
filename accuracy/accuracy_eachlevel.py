@@ -48,9 +48,8 @@ def get_data( file_name, sheet_name ,column_name):
     return res,benchmarks
 
 
-file_name = "atomic-region2.xlsx"
-file_name = "atomic-region-v131.xlsx"
-file_name = "problemsize_v6.xlsx"
+
+file_name = "r9nano.xlsx"
 
 def process_sheet_name(sheet_name,benchname,x_loc,y_loc):
 
